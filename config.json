@@ -1,0 +1,48 @@
+{
+    "help": [
+
+    ],
+
+    "EnableDisable": {
+        "calc": {
+            "add": true,
+            "addResult": true,
+            "addString": true,
+            "sub": true,
+            "subResult": true,
+            "subString": true,
+            "multi": true,
+            "multiResult": true,
+            "multiString": true,
+            "modulo": true,
+            "moduloResult": true,
+            "moduloString": true,
+            "operation": true,
+            "op": true,
+            "operationResult": true,
+            "opResult": true,
+            "operationString": true,
+            "opString": true,
+            "randomNumber": true,
+            "randomNumberResult": true,
+            "round": true,
+            "floor": true,
+            "roundResult": true,
+            "floorResult": true,
+            "roundString": true,
+            "floorString": true
+        },
+        "support": {
+            "help": true,
+            "version": true,
+            "versionString": true
+        },
+        "JSONUtil": {
+            "listArray": true,
+            "listArrayString": true,
+            "pickRandomArray": true
+        }
+    },
+
+    "DisabledError": "In the config, this command is disabled! Re-enable it."
+}

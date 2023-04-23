@@ -1,0 +1,23 @@
+{
+  "name": "devitzutilities",
+  "version": "2.6.0",
+  "description": "A simple NPM package to help you do stuff faster then ever!",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "help": "echo \"Not working yet, but soon this will tell you how to use every command and their categories inside devitzutilities!\" && exit 1"
+  },
+  "keywords": [
+    "utilities",
+    "new",
+    "helpful",
+    "time",
+    "saver",
+    "quick",
+    "fast",
+    "easy",
+    "functions"
+  ],
+  "author": "devitzer123",
+  "license": "ISC"
+}
