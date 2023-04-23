@@ -41,6 +41,9 @@
             "listArray": true,
             "listArrayString": true,
             "pickRandomArray": true
+        },
+        "misc": {
+            "Item": true
         }
     },
 

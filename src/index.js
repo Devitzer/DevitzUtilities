@@ -3,3 +3,4 @@
 exports.calc = require('./Calculations/CalculationsHandler')
 exports.support = require('./Support/SupportHandler')
 exports.JSONUtil = require('./JSONUtil/JSONUtilHandler')
+exports.misc = require('./Misc/MiscHandler')

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./devitzLogo.png" alt="Devitz Logo"> <br>
+  <img src="https://raw.githubusercontent.com/Devitzer/DevitzUtilities/Main/devitzLogo.png" alt="Devitz Logo"> <br>
   <img src="https://img.shields.io/npm/dy/devitzutilities.svg" alt="Downloads/Year">
   <img src="https://img.shields.io/npm/v/devitzutilities.svg" alt="Version"/>
   <img src="https://img.shields.io/maintenance/yes/2023.svg" alt="Maintenance"/>

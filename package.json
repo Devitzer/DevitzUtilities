@@ -1,8 +1,12 @@
 {
   "name": "devitzutilities",
-  "version": "2.6.2",
+  "version": "2.7.0",
   "description": "A simple NPM package to help you do stuff faster then ever!",
   "main": "./src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Devitzer/DevitzUtilities.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "help": "echo \"Not working yet, but soon this will tell you how to use every command and their categories inside devitzutilities!\" && exit 1"
