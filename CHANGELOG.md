@@ -129,3 +129,12 @@ Plans: Make custom errors for commands.
 More Plans: Create a class to handle items and prices? Mostly for fun.
 More Plans Pt 2: Figure out how subcategories work and how to integrate them into devitzutilities.
 More Plans Pt 3: Make devitz.support.help() work.
+
+# 2.6.2
+
+Fixed logo not showing in README.md when checking package on NPM.
+
+Plans: Make custom errors for commands.
+More Plans: Create a class to handle items and prices? Mostly for fun.
+More Plans Pt 2: Figure out how subcategories work and how to integrate them into devitzutilities.
+More Plans Pt 3: Make devitz.support.help() work.
