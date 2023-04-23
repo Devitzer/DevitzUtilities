@@ -119,3 +119,13 @@ Bug fix which allows randomNumber and randomNumberResult to be able to return th
 # 2.6.0
 
 Why did I jump to 2.6.0? Well 2.2.1 was a new command update and under semantic versioning rules I should have made that 2.3.0, so thats why I'm jumping, also because I would like to introduce 6 new commands! (round, floor, roundResult, floorResult, roundString, floorString). round rounds any number you put in the brackets and floor makes any number go down to its origin sort of thing, Example: If you put 2.9, 2.8, 2.7, really 2 point anything, floor brings it down to 2, which basically means floor will remove the decimal and not round the number.
+
+# 2.6.1
+
+Updated README.md.
+Added devitzLogo.png.
+
+Plans: Make custom errors for commands.
+More Plans: Create a class to handle items and prices? Mostly for fun.
+More Plans Pt 2: Figure out how subcategories work and how to integrate them into devitzutilities.
+More Plans Pt 3: Make devitz.support.help() work.

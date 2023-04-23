@@ -1,6 +1,6 @@
 {
   "name": "devitzutilities",
-  "version": "2.6.0",
+  "version": "2.6.1",
   "description": "A simple NPM package to help you do stuff faster then ever!",
   "main": "./src/index.js",
   "scripts": {
