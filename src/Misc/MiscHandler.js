@@ -2,4 +2,4 @@
 
 const Item = require('./MiscCmds/Item')
 
-module.exports = openLink
+module.exports = Item
