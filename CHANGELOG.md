@@ -142,7 +142,12 @@ More Plans Pt 3: Make devitz.support.help() work.
 
 P.S: If you checked .gitignore, yes that is a new command coming soon but it is in testing.
 
-# 2.8.0
+# 2.8.1
 
 Decided to not work on openLink since our NPM package is focused on JavaScript, not HTML. But if we move into that openLink will be one of the first functions.
 Have made a file in preperation for custom errors!
+Had to make it 2.8.1 because I forgot a beta tag on the beta version.
+
+# 2.8.2
+
+Made a fix so that the new Item Class works.
