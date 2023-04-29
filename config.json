@@ -45,8 +45,5 @@
         "misc": {
             "Item": true
         }
-    },
-    "DisabledError": "In the config, this command is disabled! Re-enable it.",
-    "IncorrectParameters": "You have entered incorrect parameters! Here's likely why: "
-    "ErrorsOn": true
+    }
 }

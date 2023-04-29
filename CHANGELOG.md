@@ -151,3 +151,11 @@ Had to make it 2.8.1 because I forgot a beta tag on the beta version.
 # 2.8.2
 
 Made a fix so that the new Item Class works.
+
+# 2.8.3
+
+Made new package to handle errors in preperation for **a new major update?!**
+
+# 2.8.4
+
+Bugs with the Misc category and some JSON. Also would like to announce I'm working on a wiki!
