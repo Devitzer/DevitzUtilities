@@ -159,3 +159,7 @@ Made new package to handle errors in preperation for **a new major update?!**
 # 2.8.4
 
 Bugs with the Misc category and some JSON. Also would like to announce I'm working on a wiki!
+
+# 2.8.5
+
+Actually fixed the Misc category.

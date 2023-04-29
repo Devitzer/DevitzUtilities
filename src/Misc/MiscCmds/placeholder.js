@@ -2,4 +2,4 @@ function placeholder() {
     return nil
 }
 
-modulo.exports = placeholder
+module.exports = placeholder
